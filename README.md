@@ -1,4 +1,4 @@
-# Playwright QA Automation Portfolio
+# SauceDemo Complete Automation Suite
 
 ## Overview
 
